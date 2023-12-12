@@ -27,6 +27,9 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
+# mysite/settings.py
+# Add the following line:
+LOGIN_REDIRECT_URL = '/'
 
 
 # Application definition
